@@ -1,4 +1,4 @@
-# VisioPowerShell
+# The Visio PowerShell module
 
 
 ## Installing
