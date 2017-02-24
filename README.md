@@ -1,4 +1,4 @@
 # Visio PowerShell
 
-* **[Documentation](https://github.com/saveenr/VisioPowerShell/wiki)** 
+* **[Documentation](https://saveenr.gitbooks.io/visiopowershell/content/)** 
 * **[Source Code](https://github.com/saveenr/VisioAutomation)** 
